@@ -1,11 +1,13 @@
 # wassup
 
-      .d8888b.  
-      d88P  Y88b 
-d8b        .d88P 
-Y8P       8888"  
-           "Y8b. 
-d8b   888    888 
-Y8P   Y88b  d88P 
-       "Y8888P"  
-             
+      ____   
+68b  6MMMMb  
+Y89 MM'  `Mb 
+          MM 
+         .M9 
+      MMMM   
+68b      `Mb 
+Y89       MM 
+          MM 
+    MM.  ,M9 
+     YMMMM9 
