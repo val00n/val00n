@@ -1,16 +1,11 @@
-## Hi there 👋
+# wassup
 
-<!--
-**val00n/val00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      .d8888b.  
+      d88P  Y88b 
+d8b        .d88P 
+Y8P       8888"  
+           "Y8b. 
+d8b   888    888 
+Y8P   Y88b  d88P 
+       "Y8888P"  
+             
