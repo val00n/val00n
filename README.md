@@ -1,6 +1,3 @@
-<h2 align="left">wassup</h2>
+hi
 
-<div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack&duration=1&color=F7F7F7&multiline=true&repeat=false&width=210&height=230&lines=%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E3%85%A4%E3%85%A4%E3%85%A4.d8888b.;%E2%80%82d8b%E2%80%82%E2%80%82d88P%E2%80%82+Y88b+;%E2%80%82Y8P+%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82.d88P+;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%828888%22++;++%E2%80%82++++%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%22Y8b.;%E2%80%82d8b%E2%80%82+888%E2%80%82%E2%80%82%E2%80%82%E2%80%82888+;%E2%80%82Y8P%E2%80%82%E2%80%82Y88b+%E2%80%82d88P+;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82+%22Y8888P%22+" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack&duration=1&color=F7F7F7&multiline=true&repeat=false&height=230&separator=%3C&lines=%E2%80%84%E2%80%84hi%2C+im+%40val00n+;3%3C%E2%80%84%E2%80%84sometimes+i+do+computer+stuff%3C%E2%80%84%E2%80%84still+learning%3C%E2%80%84%E2%80%84i+use+arch+btw%3C+%3C%E2%80%84%E2%80%84tg+-+%40v4loon" alt="Typing SVG" /></a>
-</div>
+im val00n, i like to do computer\tech stuff :3
