@@ -1,3 +1,2 @@
-hi
-
-im val00n, i like to do tech related stuff :3
+# hi! ;3
+# im val00n, and sometimes, i do some tech related stuff 🪴
